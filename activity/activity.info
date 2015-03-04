@@ -6,4 +6,5 @@ icon = activity-football
 exec = sugar-activity footballactivity.FootballActivity
 licence = GPLv2+
 show_launcher = yes
+category = game
 
