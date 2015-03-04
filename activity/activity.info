@@ -1,0 +1,9 @@
+[Activity]
+name = Football
+activity_version = 1
+bundle_id = org.sugarlabs.Football
+icon = activity-football
+exec = sugar-activity footballactivity.FootballActivity
+licence = GPLv2+
+show_launcher = yes
+
