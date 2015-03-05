@@ -1,11 +1,11 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Samson Goddy <Samson Goddy>, 2015.
 #
 #, fuzzy
-msgid ""
-msgstr ""
+msgid "i like to move this into other languages, so feel to add."
+msgstr "i like to move this into other languages, so feel to add."
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-09-12 15:32-0400\n"
