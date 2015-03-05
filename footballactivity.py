@@ -1,5 +1,5 @@
 # GMT+1 10:00 pm
-# Copyright (C) 2014, Samson Goddy <samsongoddy@hotmail.com>
+# Copyright (C) 2014, Samson Goddy <samsongoddy@sugarlabs.org>
 #
 # This program is free software; you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
