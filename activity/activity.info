@@ -7,5 +7,5 @@ exec = sugar-activity footballactivity.FootballActivity
 licence = GPLv2+
 show_launcher = yes
 category = game
-summary = This game of sport 
+summary = This is a game of sport 
 
